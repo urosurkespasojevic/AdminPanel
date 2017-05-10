@@ -1,0 +1,9 @@
+E:\urke\Projects\AdminPanel\AdminPanel.Database\bin\Debug\AdminPanel.Database.dacpac
+E:\urke\Projects\AdminPanel\AdminPanel.Database\bin\Debug\AdminPanel.Database.dll
+E:\urke\Projects\AdminPanel\AdminPanel.Database\bin\Debug\AdminPanel.Database.pdb
+E:\urke\Projects\AdminPanel\AdminPanel.Database\obj\Debug\Model.xml
+E:\urke\Projects\AdminPanel\AdminPanel.Database\obj\Debug\refactor.xml
+E:\urke\Projects\AdminPanel\AdminPanel.Database\obj\Debug\postdeploy.sql
+E:\urke\Projects\AdminPanel\AdminPanel.Database\obj\Debug\predeploy.sql
+E:\urke\Projects\AdminPanel\AdminPanel.Database\obj\Debug\AdminPanel.Database.dll
+E:\urke\Projects\AdminPanel\AdminPanel.Database\obj\Debug\AdminPanel.Database.pdb

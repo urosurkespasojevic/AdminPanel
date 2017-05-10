@@ -1,0 +1,12 @@
+E:\urke\Projects\AdminPanel\AdminPanel.BLL\bin\Debug\AdminPanel.BLL.dll
+E:\urke\Projects\AdminPanel\AdminPanel.BLL\bin\Debug\AdminPanel.BLL.pdb
+E:\urke\Projects\AdminPanel\AdminPanel.BLL\bin\Debug\AdminPanel.DAL.dll
+E:\urke\Projects\AdminPanel\AdminPanel.BLL\bin\Debug\EntityFramework.dll
+E:\urke\Projects\AdminPanel\AdminPanel.BLL\bin\Debug\AdminPanel.DAL.pdb
+E:\urke\Projects\AdminPanel\AdminPanel.BLL\bin\Debug\EntityFramework.xml
+E:\urke\Projects\AdminPanel\AdminPanel.BLL\obj\Debug\AdminPanel.BLL.csprojResolveAssemblyReference.cache
+E:\urke\Projects\AdminPanel\AdminPanel.BLL\obj\Debug\AdminPanel.BLL.dll
+E:\urke\Projects\AdminPanel\AdminPanel.BLL\obj\Debug\AdminPanel.BLL.pdb
+E:\urke\Projects\AdminPanel\AdminPanel.BLL\bin\Debug\AdminPanel.BLL.dll.config
+E:\urke\Projects\AdminPanel\AdminPanel.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\urke\Projects\AdminPanel\AdminPanel.BLL\bin\Debug\EntityFramework.SqlServer.xml

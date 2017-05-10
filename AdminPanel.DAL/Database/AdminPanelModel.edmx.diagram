@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3c5cf811d2e5496cbb3a2cc70da34b90" Name="Diagram1">
+        <EntityTypeShape EntityType="AdminPanelDBModel.Role" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdminPanelDBModel.User" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
+        <AssociationConnector Association="AdminPanelDBModel.FK_User_Role" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="AdminPanelDBModel.Category" Width="1.5" PointX="0.75" PointY="4.5" />
+        <EntityTypeShape EntityType="AdminPanelDBModel.News" Width="1.5" PointX="3" PointY="4" />
+        <AssociationConnector Association="AdminPanelDBModel.FK_News_Category" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

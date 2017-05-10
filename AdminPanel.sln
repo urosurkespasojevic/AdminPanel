@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminPanel.API", "AdminPanel.API\AdminPanel.API.csproj", "{CD8870A8-DEF4-4E7C-9F90-6E6003122F35}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AdminPanel.WebClient", "AdminPanel.WebClient\", "{889543C4-D42F-4CF6-977D-E18593AEEEE8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50953"
+		Debug.AspNetCompiler.PhysicalPath = "AdminPanel.WebClient\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50953\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50953"
+		Release.AspNetCompiler.PhysicalPath = "AdminPanel.WebClient\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50953\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50953"
+		SlnRelativePath = "AdminPanel.WebClient\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AdminPanel.Database", "AdminPanel.Database\AdminPanel.Database.sqlproj", "{93740B1D-9152-45E6-99C1-65B393FAAD9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminPanel.DAL", "AdminPanel.DAL\AdminPanel.DAL.csproj", "{FC8070C5-50B0-4AE9-A8B9-29782819D27A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminPanel.BLL", "AdminPanel.BLL\AdminPanel.BLL.csproj", "{E005986F-196B-4898-97A0-842369133D68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8870A8-DEF4-4E7C-9F90-6E6003122F35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8870A8-DEF4-4E7C-9F90-6E6003122F35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8870A8-DEF4-4E7C-9F90-6E6003122F35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8870A8-DEF4-4E7C-9F90-6E6003122F35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889543C4-D42F-4CF6-977D-E18593AEEEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889543C4-D42F-4CF6-977D-E18593AEEEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889543C4-D42F-4CF6-977D-E18593AEEEE8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{889543C4-D42F-4CF6-977D-E18593AEEEE8}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{93740B1D-9152-45E6-99C1-65B393FAAD9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93740B1D-9152-45E6-99C1-65B393FAAD9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93740B1D-9152-45E6-99C1-65B393FAAD9A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{93740B1D-9152-45E6-99C1-65B393FAAD9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93740B1D-9152-45E6-99C1-65B393FAAD9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93740B1D-9152-45E6-99C1-65B393FAAD9A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FC8070C5-50B0-4AE9-A8B9-29782819D27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8070C5-50B0-4AE9-A8B9-29782819D27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8070C5-50B0-4AE9-A8B9-29782819D27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8070C5-50B0-4AE9-A8B9-29782819D27A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E005986F-196B-4898-97A0-842369133D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E005986F-196B-4898-97A0-842369133D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E005986F-196B-4898-97A0-842369133D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E005986F-196B-4898-97A0-842369133D68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
